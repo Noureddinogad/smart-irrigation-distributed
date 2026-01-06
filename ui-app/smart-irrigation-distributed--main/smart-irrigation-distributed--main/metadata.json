@@ -1,0 +1,5 @@
+{
+  "name": "EcoFlow Smart Irrigation",
+  "description": "A smart irrigation client application for monitoring and controlling soil moisture, temperature, and automated watering systems.",
+  "requestFramePermissions": []
+}
